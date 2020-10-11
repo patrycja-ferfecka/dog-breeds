@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  background-color: #212121;
+}
+
+.main {
+  background-color: lightgrey;
+  display: flex;
+}
+
+.menu {
+  background-color: #909090;
+  padding: 20px;
+  width: 200px;
+}
+
+.content {
+  padding: 20px;
+  min-height: 300px;
+}
+
+.footer {
+  background-color: #212121;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
